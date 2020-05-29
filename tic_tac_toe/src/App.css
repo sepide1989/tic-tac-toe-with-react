@@ -1,0 +1,19 @@
+body {
+  background-image: url(./tic-tac-toe-background-vector-1108863.jpg);
+  margin: 5px;
+}
+.square {
+  font-size: 33px;
+  border: 1px solid green;
+  border-radius: 5px;
+  font-weight: bold;
+
+  height: 45px;
+  margin-right: -1px;
+  margin-top: -1px;
+  text-align: center;
+  width: 40px;
+}
+.t {
+  background-image: url(./Carpet0020_1_download600.jpg);
+}
